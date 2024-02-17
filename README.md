@@ -8,7 +8,7 @@ The image classification is able to predict correctly but further improvement ca
 ![Loss Plot](https://github.com/Ruzanaaris/Binary-Image-Classification/assets/95346773/b39d7554-c3f7-410e-800b-67ac781b6f71)
 
 
-## Predicted result 
+## Predicted Result 
 ![Predict Rabbit](https://github.com/Ruzanaaris/Binary-Image-Classification/assets/95346773/5dfd5b17-146c-4e6e-a363-a6bee50b22f1)
 
 
